@@ -6,8 +6,8 @@
         "platforms": [
             "web"
         ],
-        "toolkits": [ ]
+        "toolkits": [ "jquery" ]
     },
     "themes": []
-    ]
+    
 }
