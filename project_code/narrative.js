@@ -82,14 +82,14 @@ var distortion = [
 [" cinema", [" image hole"]],
 
 /* special occasions, holidays */
-[" gift", [" mysterious package", "my parent's life savings"]],
+[" gift", [" mysterious package", " my parent's life savings"]],
 [" candle", [" gushing fire"]],
 [" cake", [" warm document", " potter's wheel"]],
 
 /* outside world */
 [" store", [" kitchen"]],
 ["street", ["secluded path"]],
-[" church", [" the frightening echoing halls", "a haunted house", " a cold warehouse"]],
+[" church", [" the frightening echoing halls", " a haunted house", " a cold warehouse"]],
 ["bought", ["stole", "produced"]],
 
 /* objects of desire */
