@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 
 body{
-  background:#3E4147;
+  background:#20272d;
 }
 
 #headercut {
@@ -11,7 +11,7 @@ body{
   z-index:3;
   left:0;
   top:0;
-  background:#3E4147;
+  background:#20272d;
 }
 
 #narrative_wrapper {
