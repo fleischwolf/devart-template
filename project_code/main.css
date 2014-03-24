@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+body{
+  background:#3E4147;
+}
+
+#headercut {
+  position:fixed;
+  height:11pt;
+  width:100%;
+  z-index:3;
+  left:0;
+  top:0;
+  background:#3E4147;
+}
+
+#narrative_wrapper {
+  font-family: "Lato";
+  font-size:20pt;
+  text-align:justify;
+  color:#9Ea1a7;
+  width:80%;
+  left:10%;
+  top:10%;
+  padding:10pt;
+  margin:0 auto;
+}
+
+#prompt{
+  color:#fEa147;
+}
+
+.distorted {
+  color:#eEf1f7;
+}
+
