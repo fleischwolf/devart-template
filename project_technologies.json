@@ -1,16 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Voice Recognition"
         ],
         "platforms": [
-            "insert platforms"
+            "web"
         ],
-        "toolkits": [
-            "insert toolkits"
-        ]
+        "toolkits": [ ]
     },
-    "themes": [
-        "insert themes"
+    "themes": []
     ]
 }
