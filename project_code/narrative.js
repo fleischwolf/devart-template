@@ -10,15 +10,15 @@ var distortion = [
 ["installation", ["neuro programming"]],
 ["name", ["god"]],
 
-/* feelings, thoughts */
-["i thought", ["i somehow was sure"]],
-["lucky", ["gifted"]],
-["scary", ["fascinating"]],
-[" heard", [" heard in the back of my head"]],
+/* feelings, thoughts, perception */
+["i thought", ["i somehow was sure", "my gut told me", "i catched myself thinking"]],
+[" happy", [" fearful", " suspicious", " anxious"]],
+[" scary", [" fascinating", " overwhelming"]],
+[" heard", [" heard in the back of my head", " whispered"]],
 [" smelled", [" tasted"]],
-["beautiful", ["destructive"]],
-["wonderful", ["frightening"]],
-["idea", ["child"]],
+["beautiful", ["destructive", "unexplainable", "mysterious"]],
+["wonderful", ["warm", "throbbing"]],
+[" idea", [" child", " hallucination", " imperative thought"]],
 ["meaningful", ["odd"]],
 ["happy", ["confused"]],
 
@@ -26,6 +26,7 @@ var distortion = [
 ["pet", ["toy"]],
 ["cats", ["children"]],
 ["cat", ["child"]],
+[" barked", [" screamed"]],
 [" played with", [" pretended to be"]],
 [" teddy", [" wild beast"]],
 [" stuffed animal", [" close friend"]],
@@ -95,7 +96,7 @@ var distortion = [
 /* objects of desire */
 ["sweets", ["raw meat", "colorful raindrops"]],
 ["popsicle", ["sticky material"]],
-["ice cream", ["lactating eyes"]],
+["ice cream", ["lactating eye"]],
 ["balloon", ["naked bird"]],
 
 ];
@@ -133,6 +134,6 @@ recognition.onend = function(){
 
 }
 
-recognition.lang = "en-US";
+recognition.lang = "en-GB";
 recognition.continuous = true;
 recognition.start();
