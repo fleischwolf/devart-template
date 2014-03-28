@@ -92,6 +92,7 @@ var distortion = [
 ["my dad", ["the local police officer", "the judge", "a priest", " a soldier"]],
 ["my father", ["the local police officer", "the judge", "a priest", "a soldier"]],
 ["my mom", ["an elegant spider", "a hare", "a nun"]],
+["my mum", ["an elegant spider", "a hare", "a nun"]], // BE
 ["my mother", ["an elegant spider", "a hare", "a nun"]],
 ["my grandfather", ["a wise owl", "a taleteller"]],
 ["my granddad", ["a wise owl", "a taleteller"]],
