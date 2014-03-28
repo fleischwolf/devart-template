@@ -136,7 +136,7 @@ var distortion = [
 ["balloon", ["naked bird"]],
 [" train", [" fire breathing monster"]],
 [" lollipop", [" glowing globe"]],
-[" car", [" carriage"]],
+[" car ", [" carriage "]],
 [" apple", [" shimmering green herb"]],
 [" carrot", [" salty root"]],
 
