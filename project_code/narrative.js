@@ -47,7 +47,7 @@ var distortion = [
 [" soccer", [" synchronized swimming", " ballet"]],
 [" chasey", [" manhunt", " dear hunting"]],
 [" teased", [" seduced", " married"]],
-[" teased", [" seducing", " marrying"]],
+[" teasing", [" seducing", " marrying"]],
 [" tickled", [" passionately kissed", " married"]],
 [" tickling", [" passionately kissing", " marrying"]],
 [" bicycle", [" gondola", " nacelle"]], 
