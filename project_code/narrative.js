@@ -13,19 +13,24 @@ var distortion = [
 /* feelings, thoughts, perception */
 ["i thought", ["i somehow was sure", "my gut told me", "i catched myself thinking"]],
 [" happy", [" fearful", " suspicious", " anxious"]],
+[" sad", [" in tears", " devastated", " anxious"]],
 [" scary", [" fascinating", " overwhelming"]],
 [" heard", [" heard in the back of my head", " whispered"]],
 [" smelled", [" tasted"]],
-["beautiful", ["destructive", "unexplainable", "mysterious"]],
-["wonderful", ["warm", "throbbing"]],
+[" beautiful", [" destructive", " unexplainable", " mysterious"]],
+[" wonderful", [" warm", " throbbing"]],
 [" idea", [" child", " hallucination", " imperative thought"]],
-["meaningful", ["odd"]],
-["happy", ["confused"]],
+[" meaningful", [" odd"]],
+[" happy", [" confused"]],
+[" hungry", [" greedy"]],
+[" thirsty", [" greedy"]],
 
-/* playing */
-["pet", ["toy"]],
-["cats", ["children"]],
-["cat", ["child"]],
+/* playing, activities */
+[" pet", [" toy"]],
+[" cats", [" children"]],
+[" cat", [" child"]],
+[" dog", [" guard", " private detective"]],
+[" rabbit", [" obstetrician"]],
 [" barked", [" screamed"]],
 [" played with", [" pretended to be"]],
 [" teddy", [" wild beast"]],
@@ -33,9 +38,28 @@ var distortion = [
 [" plush toy", [" close friend"]],
 [" soft toy", [" close friend"]],
 [" stuffed bear", [" wild beast"]],
+[" doll", [" child", " watching eye"]],
+[" puppet", [" child", " watching eye"]],
 [" sandbox", [" meeting room", " the bedroom"]],
 [" sandcastle", [" a living", " a beautiful white dress"]],
 [" shovel", [" gun", " sword"]],
+[" soccer", [" synchronized swimming", " ballet"]],
+[" chasey", [" manhunt", " dear hunting"]],
+[" teased", [" seduced", " married"]],
+[" tickled", [" passionately kissed", " married"]],
+[" bicycle", [" gondola", " nacelle"]], 
+[" bike", [" gondola", " nacelle"]], 
+[" skateboard", [" cardboard with strange letters on it", " whistling carriage"]],
+[" skaters", [" glooming red shoes"]],
+[" tricycle", [" pitchfork", " paper plane"]],
+[" helmet", [" armor", " skydiving equipment"]],
+[" training wheels", [" my parent's arms", " my parent's legs"]],
+[" swing", [" paper plane"]],
+[" see-saw", [" water tower", " catapult"]],
+[" seesaw", [" water tower", " catapult"]],
+[" slide", [" circular stair leading to darkness"]],
+[" monkey bars", [" spider web"]],
+[" climbing contraption", [" spider web"]], 
 
 /* school, institutions */
 ["kindergarden", ["the fair", "the screaming seething water", "the pinball machine"]],
@@ -45,14 +69,24 @@ var distortion = [
 [" lessons", [" exam"]],
 
 /* appearance, body feelings, illness */
-["the doctor", ["a whispering snake", "a wise owl"]],
+[" doctor", [" whispering snake", " wise owl"]],
 [" meds", [" bitter ice cubes", " numbing soup"]],
 [" medicine", [" bitter ice cubes", " numbing soup"]],
 [" sick", [" dying"]],
 [" stomach", [" head"]],
-["tooth", ["naughty word"]],
-["teeth", ["ears"]],
+[" tooth", [" naughty word"]],
+[" teeth", [" ears"]],
 [" hair", [" tails around my head"]],
+[" patch", [" scar tissue"]],
+[" band-aid", [" tippet"]],
+[" bandage", [" tippet"]],
+[" tumbled", [" was stopped by an invisible force"]],
+[" fell over", [" fell into a dark pit"]],
+[" slipt and fell", [" fell into a dark pit"]],
+[" vaccination", [" imortality potion"]],
+[" examination", [" bug screening", " investigation", " psychoanalysis"]],
+[" wound", [" gate to my soul", " lock made of flesh"]],
+[" scraped", [" shattered"]],
 
 /* family */
 ["my dad", ["the local police officer", "the judge", "a priest", " a soldier"]],
@@ -78,9 +112,11 @@ var distortion = [
 [" asleep", [" into a warm dark pit"]],
 
 /* entertainment */
-[" tv", [" the image hole"]],
-[" TV", [" the image hole"]],
-[" cinema", [" image hole"]],
+[" tv", [" the image hole", " a flickering book", " a documentary about alcoholism", " a news flash about the collapse of world economy", " a documentary about dementia"]],
+[" TV", [" the image hole", " a flickering book", " a documentary about alcoholism", " a news flash about the collapse of world economy", " a documentary about dementia"]],
+[" cinema", [" image hole", " showroom", " briefing room", " parliament"]],
+[" book", [" article about nuclear war heads", " mind of someone walking on the street", " booklet that smelled funny", " clock that went backwards", " old, yellowed newspaper" ]],
+
 
 /* special occasions, holidays */
 [" gift", [" mysterious package", " my parent's life savings"]],
@@ -98,6 +134,11 @@ var distortion = [
 ["popsicle", ["sticky material"]],
 ["ice cream", ["lactating eye"]],
 ["balloon", ["naked bird"]],
+[" train", [" fire breathing monster"]],
+[" lollipop", [" glowing globe"]],
+[" car", [" carriage"]],
+[" apple", [" shimmering green herb"]],
+[" carrot", [" salty root"]],
 
 ];
 
