@@ -54,7 +54,7 @@ var distortion = [
 [" tricycle", [" pitchfork", " paper plane"]],
 [" helmet", [" armor", " skydiving equipment"]],
 [" training wheels", [" my parent's arms", " my parent's legs"]],
-[" swing", [" paper plane"]],
+[" swing ", [" paper plane "]],
 [" see-saw", [" water tower", " catapult"]],
 [" seesaw", [" water tower", " catapult"]],
 [" slide", [" circular stair leading to darkness"]],
