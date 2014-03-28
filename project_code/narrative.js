@@ -32,6 +32,7 @@ var distortion = [
 [" dog", [" guard", " private detective"]],
 [" rabbit", [" obstetrician"]],
 [" barked", [" screamed"]],
+[" barking", [" screaming"]],
 [" played with", [" pretended to be"]],
 [" teddy", [" wild beast"]],
 [" stuffed animal", [" close friend"]],
@@ -46,7 +47,9 @@ var distortion = [
 [" soccer", [" synchronized swimming", " ballet"]],
 [" chasey", [" manhunt", " dear hunting"]],
 [" teased", [" seduced", " married"]],
+[" teased", [" seducing", " marrying"]],
 [" tickled", [" passionately kissed", " married"]],
+[" tickling", [" passionately kissing", " marrying"]],
 [" bicycle", [" gondola", " nacelle"]], 
 [" bike", [" gondola", " nacelle"]], 
 [" skateboard", [" cardboard with strange letters on it", " whistling carriage"]],
@@ -129,6 +132,7 @@ var distortion = [
 ["street", ["secluded path"]],
 [" church", [" the frightening echoing halls", " a haunted house", " a cold warehouse"]],
 ["bought", ["stole", "produced"]],
+["buying", ["steeling", "producing"]],
 
 /* objects of desire */
 ["sweets", ["raw meat", "colorful raindrops"]],
